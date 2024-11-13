@@ -66,7 +66,7 @@ export const Cabecera = () => {
               </li>
 
               <li className="nav-item">
-                <NavLink className="nav-link" to="/menuacer">
+                <NavLink className="nav-link" to="/menacer">
                   Acerca De
                 </NavLink>
               </li>
